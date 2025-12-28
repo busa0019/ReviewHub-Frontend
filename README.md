@@ -1,14 +1,5 @@
 # Review Site Frontend
 
-**Collaborative School Project**
-
-This project is a collaborative effort for a school assignment by the following group members:
-
-* Anna Nikiforova
-* Faoziyyah Busari
-* Satellite Nongmaithem
-* Anuj Singh
-
 ---
 
 A Vue-powered frontend website that consumes review data from our Strapi Headless CMS backend.
