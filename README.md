@@ -38,7 +38,7 @@ This site displays categorized reviews for Movies, Books, Games, and Music, feat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/niki0012A/Review-Site-FrontEnd
+git clone https://github.com/busa0019/Review-Site-FrontEnd
 cd Review-Site-FrontEnd
 ```
 
